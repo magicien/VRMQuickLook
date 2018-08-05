@@ -10,7 +10,6 @@
 		493567872116D58300F3C28F /* GenerateThumbnailForURL.m in Sources */ = {isa = PBXBuildFile; fileRef = 493567862116D58300F3C28F /* GenerateThumbnailForURL.m */; };
 		493567892116D58300F3C28F /* GeneratePreviewForURL.m in Sources */ = {isa = PBXBuildFile; fileRef = 493567882116D58300F3C28F /* GeneratePreviewForURL.m */; };
 		4935678B2116D58300F3C28F /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 4935678A2116D58300F3C28F /* main.c */; };
-		493567942116D60200F3C28F /* CreateSnapshot.h in Headers */ = {isa = PBXBuildFile; fileRef = 493567922116D60200F3C28F /* CreateSnapshot.h */; };
 		493567952116D60200F3C28F /* CreateSnapshot.m in Sources */ = {isa = PBXBuildFile; fileRef = 493567932116D60200F3C28F /* CreateSnapshot.m */; };
 		493567982116DD1700F3C28F /* GLTFSceneKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 493567972116DD1700F3C28F /* GLTFSceneKit.framework */; };
 		4935679B2116E42800F3C28F /* GLTFSceneKit.framework.dSYM in CopyFiles */ = {isa = PBXBuildFile; fileRef = 4935679A2116E42700F3C28F /* GLTFSceneKit.framework.dSYM */; };
@@ -110,7 +109,6 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				493567942116D60200F3C28F /* CreateSnapshot.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
