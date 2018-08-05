@@ -1,15 +1,17 @@
-# GLTFQuickLook
+# VRMQuickLook
 macOS QuickLook plugin for VRM files. (.vrm)
 
 ## System Requirements
 
 - macOS 10.13 (High Sierra) or later
 
+![ScreenShot](https://github.com/magicien/VRMQuickLook/blob/master/screenshot.gif)
+
 ## Install
 
 ### Using [Homebrew Cask](https://github.com/phinze/homebrew-cask)
 
-- Run `brew cask install vrmquicklook`
+- Not ready for Homebrew...
 
 ### Manually
 
