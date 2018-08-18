@@ -1,3 +1,5 @@
+[日本語](https://github.com/magicien/VRMQuickLook/blob/master/lang/README.ja.md)
+
 # VRMQuickLook
 macOS QuickLook plugin for VRM files. (.vrm)
 
